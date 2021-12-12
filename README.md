@@ -9,7 +9,7 @@
 
 * Download project or clone it;
 * Using AMPPS extract code file into the "www" directory; 
-* Create schema named "sp5db" in your database;
+* Create schema named "db" in your database;
 * Import 'db.sql' from the project's root directory into your MySQL server;
 * Rename .env.example to just .env
 * In GitBash terminal type:
